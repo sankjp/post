@@ -1,0 +1,21 @@
+
+.post-page {
+    width: 320px;
+    overflow: hidden;
+    box-shadow:rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    background-color:aquamarine;
+    margin:50px;
+    display:inline-flex
+}
+.row {
+    overflow: hidden;
+    height: 400px;
+    padding:5px;
+}
+h1 {
+    color:rgb(66, 37, 37);
+}
+p {
+    color: rgb(2, 24, 7);
+    font-weight: 600;
+}
